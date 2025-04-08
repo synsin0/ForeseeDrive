@@ -18,7 +18,7 @@ Result on CARLA Bench2Drive closed-loop planning. Detailed results under CARLA m
 
 
 
-Result on nuScenes open-loop planning. Detailed results under UniAD/VAD/BEV-Planner metrics are in [results](https://cloud.tsinghua.edu.cn/d/abaad10c591b4041b13b/)
+Result on nuScenes open-loop planning. Detailed results under UniAD/VAD/BEV-Planner metrics are in [results](https://cloud.tsinghua.edu.cn/d/abaad10c591b4041b13b/).
 
 ![image](assets/foreseedrive_nusc.png)
 
